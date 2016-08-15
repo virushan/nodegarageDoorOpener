@@ -1,0 +1,12 @@
+{
+  "service": "Gmail",
+  "auth": {
+    "user": "email@gmail.com",
+    "pass": "XXXXXX"
+  },
+  "from": "\"Virushan Maheswaran\" <virushan@gmail.com>",
+  "to": "4165502409@msg.koodomobile.com",
+  "cc": "virushan@gmail.com",
+  "bcc": "virushan@gmail.com",
+  "notification": 1
+}

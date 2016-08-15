@@ -1,0 +1,5 @@
+{
+  "relayPins":[7, 11],
+  "sensorPin": [16,18],
+  "replayTimeout" : 500
+}
