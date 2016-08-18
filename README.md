@@ -13,19 +13,23 @@ Next you require node and npm you can use the following command to install Debia
     sudo apt-get install nodejs npm
 
 To check the version of node and npm use the following code I have 6.3.1 for node and 3.10.3 for npm at the time of development:
+
     node -v
     npm -v
 
 ##Installation:
 
 To install my project clone this repo:
+
     git clone https://github.com/virushan/nodegarageDoorOpener.git
     cd nodegarageDoorOpener
 
 To install node dependencies:
+
     npm update
 
 To start your server:
+
     npm start
 
 
