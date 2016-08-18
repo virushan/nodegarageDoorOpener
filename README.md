@@ -12,7 +12,7 @@ Next you require node and npm you can use the following command to install Debia
 
     sudo apt-get install nodejs npm
 
-To check the version of node and npm use the following code: I have 6.3.1 for node and 3.10.3 for npm at the time of development
+To check the version of node and npm use the following code I have 6.3.1 for node and 3.10.3 for npm at the time of development:
     node -v
     npm -v
 
@@ -32,6 +32,7 @@ To start your server:
 ##API Reference:
 
 Open http://localhost:3000/api after running npm start. All the available apis and documents on how to use them are available for you as reference. This will be changing in future.
+```javascript
     [
                 {
                     url: "/",
@@ -95,7 +96,7 @@ Open http://localhost:3000/api after running npm start. All the available apis a
                     description: "door access history.",
                 }
             ]
-            
+```
 
 ##TODO:
 
