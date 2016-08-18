@@ -7,12 +7,7 @@ var todo = express.Router();
 todo.get('/todo', function(req, res) {
     res.json({
         data: [
-            "setting scope of the project.",
-            "setup api style.",
             "setup socket api.",
-            "logic for garage door opener.",
-            "send notification email or sms.",
-            "check open/close state.",
             "oAuth authentication.",
             "device status and commands to reboot device or start app.",
             "close garage door after car leave/enter.",
